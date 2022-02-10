@@ -1,11 +1,9 @@
 title: Multiple button wiring
 hero_image: images/banner.png
-description: multiple-button-wiring description
+description: How to attach multiple push buttons to a Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-10"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Multiple button wiring
