@@ -1,13 +1,13 @@
-You will need:
+Tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ 2 x pin-socket jumper wires for each button
-+ Your chosen number of buttons
++ Un Raspberry Pi Pico
++ 2 fils de liaison broche-prise pour chaque bouton
++ Le nombre de boutons que tu as choisi
 
-**Note:** This diagram shows **three** push buttons attached to the Raspberry Pi Pico. If you would like a **fourth** button then you will need to attach it to a **GP** pin and a **GND** on the right hand side.
+**Remarque :** Ce schéma montre **trois** boutons-poussoirs reliés au Raspberry Pi Pico. Si tu souhaites un **quatrième** bouton, tu devras le connecter à une broche **GP** et à une broche **GND** sur le côté droit.
 
-+ Attach two pin-socket jumper wires to **GP18** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP22** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP28** and the closest **GND**
++ Fixe deux fils de liaison broche-prise à **GP18** et au **GND** le plus proche
++ Fixe deux fils de liaison broche-prise à **GP22** et au **GND** le plus proche
++ Fixe deux fils de liaison broche-prise à **GP28** et au **GND** le plus proche
 
-![Three buttons attached to a Raspberry Pi Pico.](images/multiple-button-wiring.png)
+![Trois boutons reliés à un Raspberry Pi Pico.](images/multiple-button-wiring.png)
