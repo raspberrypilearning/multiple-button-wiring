@@ -1,13 +1,13 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ 2 x pin-socket jumper wires for each button
-+ Your chosen number of buttons
++ Een Raspberry Pi Pico
++ 2 x pin-bus verbindingsdraden voor elke knop
++ Het aantal door jou gekozen knoppen
 
-**Note:** This diagram shows **three** push buttons attached to the Raspberry Pi Pico. If you would like a **fourth** button then you will need to attach it to a **GP** pin and a **GND** on the right hand side.
+**Opmerking:** Dit diagram toont **drie** drukknoppen die aan de Raspberry Pi Pico zijn bevestigd. Als je een **vierde** knop wilt, dan moet je deze aan een **GP** pin en een **GND** aan de rechterkant bevestigen.
 
-+ Attach two pin-socket jumper wires to **GP18** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP22** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP28** and the closest **GND**
++ Bevestig de pin-bus verbindingsdraden aan **GP18** en de dichtstbijzijnde **GND**
++ Bevestig twee pin-bus verbindingsdraden aan **GP22** en de dichtstbijzijnde **GND**
++ Bevestig twee pin-bus verbindingsdraden aan **GP28** en de dichtstbijzijnde **GND**
 
-![Three buttons attached to a Raspberry Pi Pico.](images/multiple-button-wiring.png)
+![Drie knoppen bevestigd aan een Raspberry Pi Pico.](images/multiple-button-wiring.png)
