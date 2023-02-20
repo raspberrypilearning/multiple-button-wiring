@@ -11,3 +11,14 @@ Je hebt nodig:
 + Bevestig twee pin-bus verbindingsdraden aan **GP28** en de dichtstbijzijnde **GND**
 
 ![Drie knoppen bevestigd aan een Raspberry Pi Pico.](images/multiple-button-wiring.png)
+
+***
+Dit project werd vertaald door vrijwilligers:
+
+[name]
+
+[name]
+
+[name]
+
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).

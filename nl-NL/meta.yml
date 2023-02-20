@@ -1,3 +1,4 @@
+---
 title: Bedraad meerdere knoppen
 hero_image: images/banner.png
 description: Hoe meerdere drukknoppen op een Raspberry Pi Pico aan te sluiten
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-10"
 steps:
-  - 
-    title: Bedraad meerdere knoppen
+  - title: Bedraad meerdere knoppen
